@@ -1,2 +1,2 @@
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "alpha"
+date: 2025-01-25
