@@ -6,5 +6,5 @@ hi!
 
 ## 本地视频演示
 <video controls width="100%">
-  <source src="/assets/videos/1st.mov" type="video/mov">
+  <source src="/assets/videos/copy1.mov" type="video/mov">
 </video>
