@@ -3,3 +3,8 @@ title: 2CutesAILearningNote
 author: 萌萌 aka 2cute
 description: 
 url: "https://2ccute.github.io/2cutesailearningnote/"
+
+plugins:
+  - jekyll-feed      # RSS 订阅
+  - jekyll-sitemap   # 网站地图
+  
