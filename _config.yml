@@ -6,6 +6,6 @@ url: "https://2ccute.github.io/2cutesailearningnote/"
 plugins:
   - jekyll-seo-tag
 
-paginate: 5  # 每页显示的文章数
+paginate: 9  # 每页显示的文章数
 paginate_path: "/blog/page:num"  # 分页路径
 
