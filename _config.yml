@@ -1,8 +1,8 @@
 theme: minima
-title: 2CutesAILearningNote
+title: 萌萌的ai学习小站 2CutesAILearningNote 
 author: 萌萌 aka 2cute
-description: 记录我的AI学习历程，分享技术心得
-url: "https://2ccute.github.io/2cutesailearningnote/"
+description: 记录我的AI学习历程，分享AI入门教程、技术心得、实用技巧"
+url: "https://2ccutes.top/"
 
 plugins:
   - jekyll-seo-tag
