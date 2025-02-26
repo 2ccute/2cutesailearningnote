@@ -6,7 +6,7 @@ categories: AI
 tags: [DeepSeek, AI, iOS, 教程]
 ---
 
-## iOS怎么让Siri接入DeepSeek
+### iOS怎么让Siri接入DeepSeek？
 
 随着人工智能技术的飞速发展，许多人希望将强大的AI模型集成到日常工具中，比如将DeepSeek接入iOS的Siri，让语音助手变得更智能。本文将详细讲解如何通过快捷指令（Shortcuts）和DeepSeek API实现这一目标。无需复杂编程，只需几个步骤，就能让Siri调用DeepSeek的强大能力，回答问题或完成任务。
 
