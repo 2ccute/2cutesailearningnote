@@ -107,4 +107,4 @@ API调用后，DeepSeek会返回JSON格式的响应，我们需要提取其中�
 如果觉得太麻烦，或者看不懂专业性的内容不知道如何操作，也可以在萌萌的闲鱼购买~ 支持一下小站的运营~ 萌萌会持续产出优质的内容
 
 下面是链接：
-【闲鱼】https://m.tb.cn/h.TGtJYAN?tk=bTP1e9b3oXz CZ193 「我在闲鱼发布了【拒绝不用心！Siri接入语音文字双模式 DeepSeek-R】」点击链接直接打开
+【闲鱼】https://m.tb.cn/h.TGtJYAN?tk=bTP1e9b3oXz CZ193 「我在闲鱼发布了【拒绝不用心！Siri接入语音文字双模式 DeepSeek-R】」 点击链接直接打开
